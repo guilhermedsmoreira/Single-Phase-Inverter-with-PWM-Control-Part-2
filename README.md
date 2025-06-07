@@ -1,6 +1,6 @@
 # ⚡Single-Phase Inverter – PCB Design (Part 2)
 
-![PCB Preview](./images/pcb_preview.png)
+![PCB Preview](PCB_3D.png)
 
 This repository contains the second part of the project: the PCB design of a single-phase inverter.  
 The schematic and simulation were previously developed in [Part 1](https://github.com/guilhermedsmoreira/Single-Phase-Inverter-with-PWM-Control-Part-1).
